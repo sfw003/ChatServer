@@ -1,0 +1,5 @@
+add_subdirectory(Sgtest)
+# add_subdirectory(Sspdlog)
+# add_subdirectory(Slogger)
+# add_subdirectory(Sprotobuf)
+# add_subdirectory(Sgrpc)
